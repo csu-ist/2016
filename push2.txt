@@ -1,2 +1,7 @@
 change
 shell do something
+
+
+git add .
+git commit -m 'update'
+git push
